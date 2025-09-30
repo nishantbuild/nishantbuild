@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **nothing right now**
 
-- 🌱 I’m currently learning **full stack web development and doing dsa in c++ language**
+- 🌱 I’m currently learning **AIML and doing dsa in c++ language**
 
 - 📫 How to reach me **nishantstudy69gmail.com**
 
