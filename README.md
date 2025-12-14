@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring software engineer</h3>
 
 
-- 🔭 I’m currently working on **.........**
+- 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **AIML and doing dsa in c++ language**
 
@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/daaku-daddy05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrithik roy" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nishant_yrrr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roy_hrithik_" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nishantbuild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishantbuild" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nishant_yrrr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishant_yrrr" height="30" width="40" /></a>
 
 </p>
 
