@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring software engineer</h3>
 
 
-- 🔭 I’m currently working on **nothing right now**
+- 🔭 I’m currently working on **.........**
 
 - 🌱 I’m currently learning **AIML and doing dsa in c++ language**
 
